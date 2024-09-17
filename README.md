@@ -7,7 +7,7 @@ GNU GPL v3 was chosen as it allows everyone to modify the source code as much as
 
 .gitignore lines that omit tracking of ´.env´
 
-´´´
+```
 # Environments
 .env
 .venv
@@ -16,4 +16,4 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-´´´
+```
